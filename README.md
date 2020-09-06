@@ -28,17 +28,17 @@ In this section, NLTK and Python were used to tokenize text, find n-gram counts,
 
 #### Top 10 words for Bitcoin:
 
-![Top 10 Bitcoin](Images/topten_bitcoin.jpg)
+![Top 10 Bitcoin](Images/topten_bitcoin.JPG)
 
 #### Top 10 words for Ethereum:
 
-![Top 10 Ethereum](Images/topten_ethereum.jpg)
+![Top 10 Ethereum](Images/topten_ethereum.JPG)
 
 #### Word Clouds for Bitcoin and Ethereum:
 
-![Bitcoin Word Cloud](Images/bitcoin_wc.jpg)
+![Bitcoin Word Cloud](Images/bitcoin_wc.JPG)
 
-![Ethereum Word Cloud](Images/ethereum_wc.jpg)
+![Ethereum Word Cloud](Images/ethereum_wc.JPG)
 
 ### Named Entity Recognition
 
@@ -46,8 +46,8 @@ Named entity recognition(NER) models were created for both coins and tags were v
 
 #### Sample Bitcoin NER:
 
-![Bitcoin NER](Images/bitcoin_ner.jpg)
+![Bitcoin NER](Images/bitcoin_ner.JPG)
 
 #### Sample Ethereum NER:
 
-![Ethereum NER](Images/ethereum_ner.jpg)
+![Ethereum NER](Images/ethereum_ner.JPG)
